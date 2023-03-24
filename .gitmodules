@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DEMOVA"]
+	path = DEMOVA
+	url = https://github.com/cran/DEMOVA
+	shallow = true
+	registered = true
